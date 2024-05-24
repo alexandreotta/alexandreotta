@@ -2,7 +2,7 @@
 
 #### Olá, bem vindos ao meu GitHub :) 
 
-Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, almejando sempre aprender novas tecnologias.
+Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscando sempre aprimorar e aprender novas tecnologias.
 
 💻 Atualmente sou Analista Financeiro Junior, mas estou em busca de estágios na área de programação.
 
