@@ -1,6 +1,6 @@
 # Kaio Alexandre
 
-#### Olá, bem vindos ao meu GitHub :) 
+#### Olá, bem vindos ao meu GitHub 😄
 
 Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscando sempre aprimorar e aprender novas tecnologias.
 
