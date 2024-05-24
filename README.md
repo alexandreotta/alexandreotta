@@ -20,7 +20,6 @@ Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscand
 <a href="https://github.com/alexandreotta">
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreotta&layout=compact&langs_count=7&theme=dracula"/>
 
-![Snake animation](https://github.com/alexandreotta/alexandreotta/blob/output/github-contribution-grid-snake.svg)
           
           
           
