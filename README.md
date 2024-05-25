@@ -18,7 +18,7 @@ Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscand
 
 ## Contatos:
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" heidht="40" />
+  <a href="https://www.linkedin.com/in/kaio-alexandre-1133661a3/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" heidht="40" />
           
 
 
