@@ -19,7 +19,7 @@ Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscand
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" heidht="40" />
 
 ## Contatos:
-<a href="https://painelfornecedor.com.br/?ctr=home&mt=login" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" heidth="40" /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaio.aleota@gmail.com)
+<a href="[https://painelfornecedor.com.br/?ctr=home&mt=login](https://www.linkedin.com/in/kaio-alexandre-1133661a3/)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" heidth="40" /> 
 
 
 ##
