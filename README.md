@@ -2,8 +2,6 @@
 
 #### Olá, bem vindos ao meu GitHub 😄
 
-![snake gif](https://github.com/alexandreotta/alexandreotta/blob/output/github-contribution-grid-snake.gif)
-
 Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscando sempre aprimorar e aprender novas tecnologias.
 
 💻 Atualmente sou Analista Financeiro Junior, mas estou em busca de estágios na área de programação.
