@@ -2,7 +2,7 @@
 
 #### Olá, bem vindos ao meu GitHub 😄
 
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alexandreotta/alexandreotta/blob/output/github-contribution-grid-snake.gif)
 
 Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscando sempre aprimorar e aprender novas tecnologias.
 
