@@ -6,7 +6,7 @@ Tenho 22 anos, sou de São Paulo - SP e sou fascinado por programação, buscand
 
 💻 Atualmente sou Analista Financeiro Junior, mas estou em busca de estágios na área de programação.
 
-📚 Estou cursando o 3º Semestre de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+📚 Estou cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
 ## Tecnologias e Ferramentas:
 
